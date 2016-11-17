@@ -1,6 +1,7 @@
 App.xbf
 MainPage.xbf
 Views\Desktop.xbf
+Views\Holographic.xbf
 Views\IoT.xbf
 Views\Mobile.xbf
 Views\XboxOne.xbf

@@ -105,6 +105,9 @@
     <Compile Include="Views\Desktop.xaml.cs">
       <DependentUpon>Desktop.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\Holographic.xaml.cs">
+      <DependentUpon>Holographic.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\IoT.xaml.cs">
       <DependentUpon>IoT.xaml</DependentUpon>
     </Compile>
@@ -123,6 +126,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\Backgrounds\blue-wallpaper.jpg" />
+    <Content Include="Assets\Backgrounds\blueTech.jpg" />
     <Content Include="Assets\Backgrounds\green-wallpaper.jpg" />
     <Content Include="Assets\Backgrounds\grey-wallpaper.jpg" />
     <Content Include="Assets\Backgrounds\purple-wallpaper.jpg" />
@@ -147,6 +151,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Views\Desktop.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Holographic.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

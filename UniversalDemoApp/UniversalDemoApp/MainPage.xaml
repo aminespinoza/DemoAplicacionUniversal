@@ -15,6 +15,7 @@
         <Button x:Name="btnDesktop" Content="Windows PC" Height="35" Margin="10,50,10,0" VerticalAlignment="Top" BorderBrush="White" Foreground="White" FontFamily="Consolas" HorizontalAlignment="Stretch" Click="btnDesktop_Click"/>
         <Button x:Name="btnIoT" Content="Windows 10 IoT Core" Height="35" Margin="10,90,10,0" VerticalAlignment="Top" BorderBrush="White" Foreground="White" FontFamily="Consolas" HorizontalAlignment="Stretch" Click="btnIoT_Click"/>
         <Button x:Name="btnXboxOne" Content="Xbox One" Height="35" Margin="10,130,10,0" VerticalAlignment="Top" BorderBrush="White" Foreground="White" FontFamily="Consolas" HorizontalAlignment="Stretch" Click="btnXboxOne_Click"/>
+        <Button x:Name="btnHolographic" Content="Hololens" Height="35" Margin="10,170,10,0" VerticalAlignment="Top" BorderBrush="White" Foreground="White" FontFamily="Consolas" HorizontalAlignment="Stretch" Click="btnHolographic_Click"/>
         <TextBlock x:Name="txtDeviceFamily" Margin="10,0,0,10" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Bottom" Foreground="#FFFDFAFA" FontFamily="Consolas" FontSize="48" HorizontalAlignment="Left"/>
 
     </Grid>

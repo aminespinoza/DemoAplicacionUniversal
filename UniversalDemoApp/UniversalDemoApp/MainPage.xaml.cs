@@ -41,6 +41,7 @@ namespace UniversalDemoApp
                     btnMobile.IsEnabled = true;
                     btnIoT.IsEnabled = false;
                     btnXboxOne.IsEnabled = false;
+                    btnHolographic.IsEnabled = false;
                     txtDeviceFamily.Text = "Mobile mode";
                     break;
 
@@ -49,6 +50,7 @@ namespace UniversalDemoApp
                     btnMobile.IsEnabled = false;
                     btnIoT.IsEnabled = false;
                     btnXboxOne.IsEnabled = false;
+                    btnHolographic.IsEnabled = false;
                     txtDeviceFamily.Text = "Desktop mode";
                     break;
 
@@ -57,6 +59,7 @@ namespace UniversalDemoApp
                     btnMobile.IsEnabled = false;
                     btnIoT.IsEnabled = false;
                     btnXboxOne.IsEnabled = true;
+                    btnHolographic.IsEnabled = false;
                     txtDeviceFamily.Text = "Xbox mode";
                     break;
 
@@ -65,7 +68,17 @@ namespace UniversalDemoApp
                     btnMobile.IsEnabled = false;
                     btnIoT.IsEnabled = true;
                     btnXboxOne.IsEnabled = false;
+                    btnHolographic.IsEnabled = false;
                     txtDeviceFamily.Text = "IoT mode";
+                    break;
+
+                case "Windows.Holographic":
+                    btnDesktop.IsEnabled = false;
+                    btnMobile.IsEnabled = false;
+                    btnIoT.IsEnabled = false;
+                    btnXboxOne.IsEnabled = false;
+                    btnHolographic.IsEnabled = true;
+                    txtDeviceFamily.Text = "Holo mode";
                     break;
             }
         }
@@ -88,6 +101,11 @@ namespace UniversalDemoApp
         private void btnXboxOne_Click(object sender, RoutedEventArgs e)
         {
             this.Frame.Navigate(typeof(XboxOne));
+        }
+
+        private void btnHolographic_Click(object sender, RoutedEventArgs e)
+        {
+            this.Frame.Navigate(typeof(Holographic));
         }
     }
 }

@@ -1,1 +1,1 @@
-C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\UniversalDemoApp.csproj;arm
+C:\Users\amines\documents\visual studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\UniversalDemoApp.csproj;arm
