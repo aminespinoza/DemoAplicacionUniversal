@@ -3,21 +3,23 @@ using Windows.ApplicationModel.Resources.Core;
 using Windows.Media.SpeechSynthesis;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
+using Windows.UI.Xaml.Navigation;
 
 namespace UniversalDemoApp.Views
 {
     public sealed partial class Holographic : Page
     {
         private SpeechSynthesizer synthesizer;
-        private ResourceContext speechContext;
+
         public Holographic()
         {
             this.InitializeComponent();
+        }
 
+        protected override void OnNavigatedTo(NavigationEventArgs e)
+        {
+            base.OnNavigatedTo(e);
             synthesizer = new SpeechSynthesizer();
-
-            speechContext = ResourceContext.GetForCurrentView();
-            speechContext.Languages = new string[] { SpeechSynthesizer.DefaultVoice.Language };
         }
 
         private void btnBack_Click(object sender, RoutedEventArgs e)
