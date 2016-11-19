@@ -10,19 +10,19 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>d97b7862-2c64-46eb-8a39-7d0d9d0bf097</PackageIdentityName>
     <PackageIdentityPublisher>CN=amines</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\UniversalDemoApp.exe">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\UniversalDemoApp.exe">
       <PackagePath>entrypoint\UniversalDemoApp.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\amine\.nuget\packages\Microsoft.ApplicationInsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
@@ -343,70 +343,70 @@
     <AppxPackagedFile Include="C:\Users\amine\.nuget\packages\System.Xml.XmlSerializer\4.0.10\lib\netcore50\System.Xml.XmlSerializer.dll">
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\ApplicationInsights.config">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\blue-wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\blue-wallpaper.jpg">
       <PackagePath>Assets\Backgrounds\blue-wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\blueTech.jpg">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\blueTech.jpg">
       <PackagePath>Assets\Backgrounds\blueTech.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\green-wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\green-wallpaper.jpg">
       <PackagePath>Assets\Backgrounds\green-wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\grey-wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\grey-wallpaper.jpg">
       <PackagePath>Assets\Backgrounds\grey-wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\purple-wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\purple-wallpaper.jpg">
       <PackagePath>Assets\Backgrounds\purple-wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\wallpaper.jpg">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\wallpaper.jpg">
       <PackagePath>Assets\Backgrounds\wallpaper.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\wallpaper2.jpg">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Backgrounds\wallpaper2.jpg">
       <PackagePath>Assets\Backgrounds\wallpaper2.jpg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\UniversalDemoApp.xr.xml">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\UniversalDemoApp.xr.xml">
       <PackagePath>UniversalDemoApp.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\amine\Documents\Visual Studio 2015\Projects\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\Core\UniversalDemoApp.exe">
+    <AppxPackagedFile Include="C:\Users\amine\Documents\GitHub\DemoAplicacionUniversal\UniversalDemoApp\UniversalDemoApp\bin\x86\Debug\Core\UniversalDemoApp.exe">
       <PackagePath>UniversalDemoApp.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

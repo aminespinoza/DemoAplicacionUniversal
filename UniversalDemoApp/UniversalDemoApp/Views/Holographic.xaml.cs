@@ -1,5 +1,4 @@
 ﻿using System;
-using Windows.ApplicationModel.Resources.Core;
 using Windows.Media.SpeechSynthesis;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
